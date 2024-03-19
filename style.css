@@ -1,6 +1,6 @@
 .container
 {
-	background:url("bd.jpg.")no-repeat;
+	background:url("bd.jpg")no-repeat;
 	background-size:cover;
 	position:absolute;
 	left: 25%;
